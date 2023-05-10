@@ -1,6 +1,13 @@
 {
   "name": "fcc-learn-npm-package-json",
   "description": "An educational Free Code Camp project",
+  "keywords": [
+    "freecodecamp",
+    "educational",
+    "npm",
+    "boilerplate",
+    "node.js"
+  ],
   "author": "Severyn Hundiak",
   "dependencies": {
     "express": "^4.14.0"
